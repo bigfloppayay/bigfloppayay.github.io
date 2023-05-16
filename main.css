@@ -1,1 +1,17 @@
+html {
+  margin: 20px;
+  background-color: #000000
+}
 
+body {
+  font-family: "HelvetNue-Light", "Helvet Nue Ligh
+  font-weight: 300;
+ color: #FFFFFF
+}
+h1 {
+  font-size 50px;
+}
+p {
+  font-size: 20px;
+  color: #FFFFF
+}
